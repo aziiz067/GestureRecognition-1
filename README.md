@@ -37,7 +37,7 @@ Jika berjalan dengan benar, jendela kamera akan muncul dan program mulai mendete
 <img src="https://github.com/user-attachments/assets/4f30561e-5d1b-4942-a72c-eb03809f2740" alt="Alt Text" width="300"/>
 
 
-7. Troubleshooting
+6. Troubleshooting
 - Jika kamera tidak aktif atau program mengalami error, pastikan:
 - Kamera laptop atau webcam sudah terhubung dan berfungsi.
 - Tidak ada program lain yang menggunakan kamera.
