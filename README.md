@@ -14,6 +14,8 @@ Buka VS Code, kemudian pilih File > Open Folder... dan pilih folder "GestureReco
 - Buat File Python
 Di dalam folder, klik kanan pada nama folder di bagian Explorer (di sisi kiri layar).
 Pilih New File dan beri nama file tersebut "gesture_recognition.py".
+![image](https://github.com/user-attachments/assets/942c9e8f-7758-4d93-a50f-5b775b86277f)
+
 
 3. Menyalin dan Menempelkan Kode
 Salin kode Python yang Anda tulis sebelumnya dan tempelkan ke dalam file "gesture_recognition.py" yang baru Anda buat di VS Code.
