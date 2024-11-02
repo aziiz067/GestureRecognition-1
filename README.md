@@ -32,7 +32,10 @@ Di terminal, jalankan perintah berikut untuk menginstal OpenCV, MediaPipe, dan N
 Setelah pustaka terpasang, pastikan file gesture_recognition.py terbuka.
 Jalankan program dengan memilih Run > Run Without Debugging atau tekan tombol F5.
 Jika berjalan dengan benar, jendela kamera akan muncul dan program mulai mendeteksi gestur tangan.
-<img src="https://github.com/user-attachments/assets/a3908bf5-29b9-41ec-bafe-bdfd0e54fc96" alt="Alt Text" width="400"/>
+<img src="https://github.com/user-attachments/assets/a3908bf5-29b9-41ec-bafe-bdfd0e54fc96" alt="Alt Text" width="300"/>
+<img src="https://github.com/user-attachments/assets/95d0457f-c83f-4b13-a90c-c1671471f75c" alt="Alt Text" width="300"/>
+<img src="https://github.com/user-attachments/assets/4f30561e-5d1b-4942-a72c-eb03809f2740" alt="Alt Text" width="300"/>
+
 
 7. Troubleshooting
 - Jika kamera tidak aktif atau program mengalami error, pastikan:
